@@ -1,12 +1,19 @@
-body{
-    background-color: aquamarine;
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/03/24/11/21/winter-4963715_1280.jpg);
+    background-size: cover;
 }
+
 p{
     background-color: green;
     border: 5px solid blue;
-    font-size: 150px;
+    font-size: 15px;
 }
 
 p:first-child{
     border: 5px solid rgb(236, 149, 66);
+}
+
+h1{
+    text-align: center;
 }
